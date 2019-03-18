@@ -1,0 +1,14 @@
+{
+  "name": "eslint-config-isekai",
+  "version": "1.0.0",
+  "description": "eslint config for isekai engine",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "SEE LICENSE IN LICENSE",
+  "peerDependencies": {
+    "eslint": ">= 3"
+}
+}
