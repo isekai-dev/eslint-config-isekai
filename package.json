@@ -6,9 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "AGoblinKing",
   "license": "SEE LICENSE IN LICENSE",
   "peerDependencies": {
-    "eslint": ">= 3"
-}
+      "eslint": ">= 3"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/isekai-dev/eslint-config-isekai.git"
+  }
 }
