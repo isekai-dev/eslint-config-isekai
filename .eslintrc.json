@@ -1,4 +1,4 @@
-module.exports = {
+{
     "env": {
         "browser": true,
         "es6": true,
@@ -245,7 +245,10 @@ module.exports = {
         "prefer-spread": "error",
         "prefer-template": "error",
         "quote-props": "off",
-        "quotes": "error",
+        "quotes": [
+            "error",
+            "backtick"
+        ],
         "radix": "error",
         "require-atomic-updates": "error",
         "require-await": "error",
@@ -297,4 +300,4 @@ module.exports = {
             "never"
         ]
     }
-};
+}

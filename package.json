@@ -1,18 +1,18 @@
 {
-  "name": "eslint-config-isekai",
-  "version": "1.0.0",
+  "name": "@isekai/eslint-config",
+  "version": "1.2.0",
   "description": "eslint config for isekai engine",
-  "main": ".eslintrc.js",
+  "main": ".eslintrc.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "AGoblinKing",
   "license": "SEE LICENSE IN LICENSE",
   "peerDependencies": {
-      "eslint": ">= 3"
+    "eslint": ">= 3"
   },
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/isekai-dev/eslint-config-isekai.git"
+    "type": "git",
+    "url": "https://github.com/isekai-dev/eslint-config-isekai.git"
   }
 }
