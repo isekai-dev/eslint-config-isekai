@@ -1,6 +1,6 @@
 {
   "name": "@isekai/eslint-config",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "eslint config for isekai engine",
   "main": ".eslintrc.json",
   "scripts": {
